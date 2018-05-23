@@ -1,0 +1,25 @@
+{
+  "name": "esi-client-angular",
+  "version": "0.8.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evecommander/esi-client-angular.git"
+  },
+  "keywords": [
+    "eve-online",
+    "esi",
+    "typescript",
+    "ngx"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evecommander/esi-client-angular/issues"
+  },
+  "homepage": "https://github.com/evecommander/esi-client-angular#readme"
+}
